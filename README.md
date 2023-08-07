@@ -41,7 +41,7 @@ A perseguição policial será acionada por um evento de progressão, como tempo
 - Áudio: Música de fundo syntwave e efeitos sonoros para movimento do carro, colisões, sons de coleta de moedas e sirenes da polícia.
 
  ## Aplicativo Mobile :
- O aplicativo será um guia do jogo. Contendo as dicas de jogablidade e explicações para jogar.
- Iremos utilizar ilustrações do jogo com os elementos de ImageView e ListView.
- Para navegar entre as telas pensamos em utilizar Buttons e ImageButtons.
- E para organizar os conteúdos na tela utilizaremos a ScrollView.
+- O aplicativo será um guia do jogo. Contendo as dicas de jogablidade e explicações para jogar.
+- Iremos utilizar ilustrações do jogo com os elementos de ImageView e ListView.
+- Para navegar entre as telas pensamos em utilizar Buttons e ImageButtons.
+- E para organizar os conteúdos na tela utilizaremos a ScrollView.
