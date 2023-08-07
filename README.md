@@ -3,7 +3,7 @@
 ## Dupla: Iago Carvalho Santana e Leo Kenzo Masago
 
  ## 1. Visão Geral:
-Nós escolhemos um tema de um jogo com mecânicas de corrida infinita desenvolvido no Unity. em Beetle Driver, você assume o papel de um habilidoso motorista em fuga, conduzindo um fusca em alta velocidade enquanto é perseguido por um carro de polícia determinado a capturá-lo. Enquanto foge, desvie de carros que se movem rapidamente pela avenida. O objetivo é percorrer e coletar uma espeficia quantidade de moedas sem colidir com outros carros da avenida e sem ser parado pela policia.
+Nós escolhemos um tema de um jogo com mecânicas de corrida infinita desenvolvido no Unity. em Beetle Driver, você assume o papel de um habilidoso motorista em fuga, conduzindo um fusca em alta velocidade enquanto é perseguido por um carro de polícia determinado a capturá-lo. Enquanto foge, desvie de carros que se movem rapidamente pela avenida. O objetivo é percorrer e coletar uma específica quantidade de moedas sem colidir com outros carros da avenida e sem ser parado pela policia.
 
  ## 2. Mecânicas Principais:
 
